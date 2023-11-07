@@ -1,0 +1,92 @@
+Welcome to the Trivia Game!
+This is a two player game. Each player gets to answer 5 questions each.
+Questions are randomly picked from a database and each player gets to answer in turns.
+Each answer is labled by letters A, B, C and D. Type the correct answer when prompted,
+and it will be recorded regardless if you typed a lowercase or uppercase answer once you hit enter.
+Typing any other letters, words, or phrase will invalidate your answer.
+Scores will be counted at the end of the game. Good luck and have fun!
+
+Player 1's turn:
+1) What country does the Rhine River run through?
+ a. France
+ b. Italy
+ c. Spain
+ d. Germany
+Your answer: b
+====================================
+Player 2's turn:
+2) What is the measure of the impulse per unit of spacecraft mass that is needed to perform a spacecraft orbital maneuver?
+ a. Delta-v
+ b. Thrust velocity
+ c. Terminal velocity
+ d. Specific impulse
+Your answer: a
+====================================
+Player 1's turn:
+3) What was the name of the research ship Charles Darwin traveled with?
+ a. HMS Endeavour
+ b. HMS Resolution
+ c. HMS Beagle
+ d. HMS Bounty
+Your answer: c
+====================================
+Player 2's turn:
+4) What type of caliber does the M16 rifle family use?
+ a. 7.62mm
+ b. 5.56mm
+ c. 9mm
+ d. 12.7mm
+Your answer: b
+====================================
+Player 1's turn:
+5) What is the name of the largest artery in the human body?
+ a. Carotid artery
+ b. Coronary artery
+ c. Aorta
+ d. Brachial artery
+Your answer: c
+====================================
+Player 2's turn:
+6) What are the bones called that make up a spine?
+ a. Vertebrae
+ b. Tibia
+ c. Femur
+ d. Cranium
+Your answer: a
+====================================
+Player 1's turn:
+7) What is the name of the first computer programmer?
+ a. Grace Hopper
+ b. Ada Lovelace
+ c. Marie Curie
+ d. Barbara Liskov
+Your answer: b
+====================================
+Player 2's turn:
+8) What term is used for when a bullet skips or rebounds off a surface?
+ a. Deflection
+ b. Rebound
+ c. Ricochet
+ d. Glancing
+Your answer: c
+====================================
+Player 1's turn:
+9) What defensive measure is commonly used by ships to counter submarine attacks?
+ a. Sonar buoys
+ b. Flares
+ c. Smoke bombs
+ d. Depth charges
+Your answer: a
+====================================
+Player 2's turn:
+10) What is the name of the first artificial satellite launched into space?
+ a. Explorer 1
+ b. Sputnik 1
+ c. Explorer 6
+ d. Explorer 7
+Your answer: b
+====================================
+
+Player 2 wins!
+Player 1's score: 3
+Player 2's score: 5

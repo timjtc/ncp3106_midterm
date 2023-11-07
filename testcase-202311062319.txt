@@ -1,0 +1,92 @@
+Welcome to the Trivia Game!
+This is a two player game. Each player gets to answer 5 questions each.
+Questions are randomly picked from a database and each player gets to answer in turns.
+Each answer is labled by letters A, B, C and D. Type the correct answer when prompted,
+and it will be recorded regardless if you typed a lowercase or uppercase answer once you hit enter.
+Typing any other letters, words, or phrase will invalidate your answer.
+Scores will be counted at the end of the game. Good luck and have fun!
+
+Player 1's turn:
+1) In a submarine, what is the function of hydroplanes?
+ a. Control the depth of the submarine
+ b. To launch torpedoes
+ c. Maneuver the submarine left or right
+ d. Control the pitch angle of the submarine during a dive
+Your answer: c
+====================================
+Player 2's turn:
+2) What type of guidance system do most AIM-9 Sidewinder missiles use?
+ a. Command to line-of-sight
+ b. Active radar homing
+ c. Semi-active radar homing
+ d. Infrared homing
+Your answer: b
+====================================
+Player 1's turn:
+3) The smallest velocity a small body requires in order to escape from the gravitational attraction of a more massive body is known as the:
+ a. Instantaneous velocity
+ b. Terminal velocity
+ c. Elliptical velocity
+ d. Escape velocity
+Your answer: d
+====================================
+Player 2's turn:
+4) What is the somewhat-logical term for the internet prank and meme in which an unexpected appearance of the music video for the 1987 Rick Astley song "Never Gonna Give You Up" is "planted" into an unrelated link? The meme's popularity dates back to 2008.
+ a. Rolling
+ b. Pranking
+ c. Tricking
+ d. Rickrolling
+Your answer: d
+====================================
+Player 1's turn:
+5) What are the name of the main characters in the anime "Your Name"?
+ a. Taki and Miki
+ b. Shoya and Shoko
+ c. Shoya and Ueno
+ d. Taki and Mitsuha
+Your answer: a
+====================================
+Player 2's turn:
+6) What computer architecture is generally designed to simplify individual instructions given to a CPU to accomplish tasks?
+ a. Complex instruction set computing
+ b. Explicitly parallel instruction computing
+ c. Very long instruction word
+ d. Reduced instruction set computing
+Your answer: d
+====================================
+Player 1's turn:
+7) What is the name for a cartridge that contains gunpowder but no bullet?
+ a. Blank
+ b. Dud
+ c. Snuff
+ d. Null
+Your answer: a
+====================================
+Player 2's turn:
+8) Which NASA space flight was the last manned mission to the moon?
+ a. Apollo 18
+ b. Apollo 15
+ c. Apollo 17
+ d. Apollo 21
+Your answer: d
+====================================
+Player 1's turn:
+9) What is a geiger counter used to measure?
+ a. Temperature
+ b. Humidity
+ c. Radioactivity
+ d. Pressure
+Your answer: c
+====================================
+Player 2's turn:
+10) Referring to the government of the ancient Roman Republic, which four-letter abbreviation was used for the phrase "Senatus Populusque Romanus" meaning "The Roman Senate and People"?
+ a. SPR
+ b. SPLR
+ c. SPQR
+ d. SPRN
+Your answer: c
+====================================
+
+It's a tie!
+Player 1's score: 3
+Player 2's score: 3

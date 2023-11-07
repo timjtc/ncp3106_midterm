@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database questionsPerPlayer="5">
+    <trivia id="0">
+        <question>What is the name of the largest country in the world?</question>
+        <choices>
+            <option0>Russia</option0>
+            <option1>Canada</option1>
+            <option2>China</option2>
+            <option3>United States</option3>
+        </choices>
+        <answer>0</answer>
+        <category>geography</category>
+    </trivia>
+    <trivia id="1">
+        <question>What country does the Rhine River run through?</question>
+        <choices>
+            <option0>France</option0>
+            <option1>Italy</option1>
+            <option2>Spain</option2>
+            <option3>Germany</option3>
+        </choices>
+        <answer>3</answer>
+        <category>geography</category>
+    </trivia>
+    <trivia id="2">
+        <question>What two countries border directly north of Hungary?</question>
+        <choices>
+            <option0>Germany and Poland</option0>
+            <option1>Slovakia and Ukraine</option1>
+            <option2>Romania and Serbia</option2>
+            <option3>Austria and Slovenia</option3>
+        </choices>
+        <answer>1</answer>
+        <category>geography</category>
+    </trivia>
+    <trivia id="3">
+        <question>In which European city was the first organized marathon held?</question>
+        <choices>
+            <option0>Paris</option0>
+            <option1>London</option1>
+            <option2>Athens</option2>
+            <option3>Rome</option3>
+        </choices>
+        <answer>2</answer>
+        <category>geography</category>
+    </trivia>
+    <trivia id="4">
+        <question>What is the name of the deepest point in Earth's oceans?</question>
+        <choices>
+            <option0>Java Trench</option0>
+            <option1>Tonga Trench</option1>
+            <option2>Philippine Trench</option2>
+            <option3>Mariana's Trench</option3>
+        </choices>
+        <answer>3</answer>
+        <category>geography</category>
+    </trivia>
+    <trivia id="5">
+        <question>What is the name of the state in Central Europe formed in 800 AD that is a federation of diverse sovereign kingdoms under the rule of an emperor?</question>
+        <choices>
+            <option0>Holy Roman Empire</option0>
+            <option1>Byzantine Empire</option1>
+            <option2>Carolingian Empire</option2>
+            <option3>Bulgarian Empire</option3>
+        </choices>
+        <answer>0</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="6">
+        <question>The ancient Greeks battled which other nation during the battle of Thermopylae?</question>
+        <choices>
+            <option0>Carthaginia</option0>
+            <option1>Persia</option1>
+            <option2>Phoenicia</option2>
+            <option3>Assyria</option3>
+        </choices>
+        <answer>1</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="7">
+        <question>The end of the second Punic War was marked by which battle in 202 BC?</question>
+        <choices>
+            <option0>Battle of Cannae</option0>
+            <option1>Battle of Alesia</option1>
+            <option2>Battle of Gaugamela</option2>
+            <option3>Battle of Zama</option3>
+        </choices>
+        <answer>3</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="8">
+        <question>Charlemagne was crowned on what day in 800 AD?</question>
+        <choices>
+            <option0>Christmas Day</option0>
+            <option1>New Years Day</option1>
+            <option2>Ascension Day</option2>
+            <option3>Easter Sunday</option3>
+        </choices>
+        <answer>0</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="9">
+        <question>What was the name of the research ship Charles Darwin traveled with?</question>
+        <choices>
+            <option0>HMS Endeavour</option0>
+            <option1>HMS Resolution</option1>
+            <option2>HMS Beagle</option2>
+            <option3>HMS Bounty</option3>
+        </choices>
+        <answer>2</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="10">
+        <question>Which kind of orbit classified by eccentricity will carry away an object that is never to return to its starting point?</question>
+        <choices>
+            <option0>Synchronous</option0>
+            <option1>Hyperbolic</option1>
+            <option2>Elliptical</option2>
+            <option3>Circular</option3>
+        </choices>
+        <answer>1</answer>
+        <category>orbital_mechanics</category>
+    </trivia>
+    <trivia id="11">
+        <question>The smallest velocity a small body requires in order to escape from the gravitational attraction of a more massive body is known as the:</question>
+        <choices>
+            <option0>Instantaneous velocity</option0>
+            <option1>Terminal velocity</option1>
+            <option2>Elliptical velocity</option2>
+            <option3>Escape velocity</option3>
+        </choices>
+        <answer>3</answer>
+        <category>orbital_mechanics</category>
+    </trivia>
+    <trivia id="12">
+        <question>What is the name of the point in an orbit that is closest to the body being orbited?</question>
+        <choices>
+            <option0>Descending node</option0>
+            <option1>Apoapsis</option1>
+            <option2>Periapsis</option2>
+            <option3>Argument of periapsis</option3>
+        </choices>
+        <answer>2</answer>
+        <category>orbital_mechanics</category>
+    </trivia>
+    <trivia id="13">
+        <question>A satellite that remains above the same spot on Earth's surface is known as a:</question>
+        <choices>
+            <option0>Geosynchronous satellite</option0>
+            <option1>Geodetic satellite</option1>
+            <option2>Low earth satellite</option2>
+            <option3>Sun-synchronous satellite</option3>
+        </choices>
+        <answer>0</answer>
+        <category>orbital_mechanics</category>
+    </trivia>
+    <trivia id="14">
+        <question>Which value of orbit eccentricity describes a perfectly circular orbit?</question>
+        <choices>
+            <option0>1</option0>
+            <option1>0.5</option1>
+            <option2>0.314</option2>
+            <option3>0</option3>
+        </choices>
+        <answer>3</answer>
+        <category>orbital_mechanics</category>
+    </trivia>
+    <trivia id="15">
+     <question>What is the name of the first artificial satellite launched into space?</question>
+        <choices>
+            <option0>Explorer 1</option0>
+            <option1>Sputnik 1</option1>
+            <option2>Explorer 6</option2>
+            <option3>Explorer 7</option3>
+        </choices>
+        <answer>1</answer>
+        <category>spaceflight</category>
+    </trivia>
+    <trivia id="16">
+        <question>What tissues connect the muscles to the bones?</question>
+        <choices>
+            <option0>Cartilage</option0>
+            <option1>Ligaments</option1>
+            <option2>Tendons</option2>
+            <option3>Epithelial</option3>
+        </choices>
+        <answer>2</answer>
+        <category>human_anatomy</category>
+    </trivia>
+    <trivia id="17">
+        <question>What is the name of the process by which plants convert sunlight into energy?</question>
+        <choices>
+            <option0>Photosynthesis</option0>
+            <option1>Respiration</option1>
+            <option2>Transpiration</option2>
+            <option3>Evaporation</option3>
+        </choices>
+        <answer>0</answer>
+        <category>science</category>
+    </trivia>
+    <trivia id="18">
+        <question>Diabetes develops as the result of a problem with which specific organ in the body?</question>
+        <choices>
+            <option0>Pancreas</option0>
+            <option1>Liver</option1>
+            <option2>Stomach</option2>
+            <option3>Heart</option3>
+        </choices>
+        <answer>0</answer>
+        <category>human_anatomy</category>
+    </trivia>
+    <trivia id="19">
+        <question>Who is regarded as the man who invented the telephone?</question>
+        <choices>
+            <option0>Thomas Edison</option0>
+            <option1>Samuel Morse</option1>
+            <option2>Alexander Graham Bell</option2>
+            <option3>Benjamin Franklin</option3>
+        </choices>
+        <answer>2</answer>
+        <category>technology</category>
+    </trivia>
+    <trivia id="20">
+        <question>What is the name of the first computer programmer?</question>
+        <choices>
+            <option0>Grace Hopper</option0>
+            <option1>Ada Lovelace</option1>
+            <option2>Marie Curie</option2>
+            <option3>Barbara Liskov</option3>
+        </choices>
+        <answer>1</answer>
+        <category>technology</category>
+    </trivia>
+    <trivia id="21">
+        <question>In the human body, what do ligaments hold together?</question>
+        <choices>
+            <option1>Organs</option1>
+            <option2>Muscles</option2>
+            <option0>Tendons</option0>
+            <option3>Bones</option3>
+        </choices>
+        <answer>3</answer>
+        <category>human_anatomy</category>
+    </trivia>
+    <trivia id="22">
+        <question>What is the name of the largest artery in the human body?</question>
+        <choices>
+            <option0>Carotid artery</option0>
+            <option1>Coronary artery</option1>
+            <option2>Aorta</option2>
+            <option3>Brachial artery</option3>
+        </choices>
+        <answer>2</answer>
+        <category>human_anatomy</category>
+    </trivia>
+    <trivia id="23">
+        <question>What is the name of the largest vein in the human body?</question>
+        <choices>
+            <option0>Superior vena cava</option0>
+            <option1>Inferior vena cava</option1>
+            <option2>Coronary sinus</option2>
+            <option3>Great saphenous vein</option3>
+        </choices>
+        <answer>1</answer>
+        <category>human_anatomy</category>
+    </trivia>
+    <trivia id="24">
+        <question>Where in the human body is bile stored?</question>
+        <choices>
+            <option0>Pancreas</option0>
+            <option1>Kidneys</option1>
+            <option2>Lungs</option2>
+            <option3>Gall bladder</option3>
+        </choices>
+        <answer>3</answer>
+        <category>human_anatomy</category>
+    </trivia>
+    <trivia id="25">
+        <question>What are the bones called that make up a spine?</question>
+        <choices>
+            <option0>Vertebrae</option0>
+            <option1>Tibia</option1>
+            <option2>Femur</option2>
+            <option3>Cranium</option3>
+        </choices>
+        <answer>0</answer>
+        <category>human_anatomy</category>
+    </trivia>
+    <trivia id="26">
+        <question>What is the name of the largest muscle in the human body?</question>
+        <choices>
+            <option0>Gluteus maximus</option0>
+            <option1>Latissimus dorsi</option1>
+            <option2>Quadriceps femoris</option2>
+            <option3>Triceps brachii</option3>
+        </choices>
+        <answer>0</answer>
+        <category>human_anatomy</category>
+    </trivia>
+    <trivia id="27">
+        <question>What is the programming language developed by James Gosling at Sun Microsystems and named after the type of coffee from Indonesia?</question>
+        <choices>
+            <option0>JavaScript</option0>
+            <option1>C++</option1>
+            <option2>Python</option2>
+            <option3>Java</option3>
+        </choices>
+        <answer>3</answer>
+        <category>technology</category>
+    </trivia>
+    <trivia id="28">
+        <question>What popular operating system, launched in 1991, also has its own mascot, Tux the penguin?</question>
+        <choices>
+            <option0>Windows</option0>
+            <option1>Linux</option1>
+            <option2>Mac OS</option2>
+            <option3>Unix</option3>
+        </choices>
+        <answer>1</answer>
+        <category>technology</category>
+    </trivia>
+    <trivia id="29">
+        <question>What term is used for the most basic level or core of an operating system, responsible for resource allocation, file management and security?</question>
+        <choices>
+            <option0>Command line</option0>
+            <option1>Shell</option1>
+            <option2>Kernel</option2>
+            <option3>Terminal</option3>
+        </choices>
+        <answer>2</answer>
+        <category>technology</category>
+    </trivia>
+    <trivia id="30">
+        <question>What is the somewhat-logical term for the internet prank and meme in which an unexpected appearance of the music video for the 1987 Rick Astley song "Never Gonna Give You Up" is "planted" into an unrelated link? The meme's popularity dates back to 2008.</question>
+        <choices>
+            <option0>Rolling</option0>
+            <option1>Pranking</option1>
+            <option2>Tricking</option2>
+            <option3>Rickrolling</option3>
+        </choices>
+        <answer>3</answer>
+        <category>modern_memes</category>
+    </trivia>
+    <trivia id="31">
+        <question>Which of these is not a valid containment classification for SCP anomalies under the new Anomaly Classification System (ACS) of the SCP Foundation wiki?</question>
+        <choices>
+            <option0>Safe</option0>
+            <option1>Euclid</option1>
+            <option2>Keter</option2>
+            <option3>Thaumiel</option3>
+        </choices>
+        <answer>3</answer>
+        <category>scp</category>
+    </trivia>
+    <trivia id="32">
+        <question>What is the name of the SCP anomaly that is a statue that moves when not in direct line of sight?</question>
+        <choices>
+            <option0>SCP-173</option0>
+            <option1>SCP-096</option1>
+            <option2>SCP-049</option2>
+            <option3>SCP-106</option3>
+        </choices>
+        <answer>0</answer>
+        <category>scp</category>
+    </trivia>
+    <trivia id="33">
+        <question>What is the name of the SCP anomaly that is a humanoid that will kill anyone who sees its face?</question>
+        <choices>
+            <option0>SCP-173</option0>
+            <option1>SCP-096</option1>
+            <option2>SCP-049</option2>
+            <option3>SCP-106</option3>
+        </choices>
+        <answer>1</answer>
+        <category>scp</category>
+    </trivia>
+    <trivia id="34">
+        <question>What is the name of the SCP anomaly that is a plague doctor that can kill people by touching them?</question>
+        <choices>
+            <option0>SCP-173</option0>
+            <option1>SCP-096</option1>
+            <option2>SCP-049</option2>
+            <option3>SCP-106</option3>
+        </choices>
+        <answer>2</answer>
+        <category>scp</category>
+    </trivia>
+    <trivia id="35">
+        <question>Which of these positions is the most important within the SCP Foundation?</question>
+        <choices>
+            <option0>Site Director</option0>
+            <option1>O5 Council</option1>
+            <option2>Researcher</option2>
+            <option3>D-Class Personnel</option3>
+        </choices>
+        <answer>1</answer>
+        <category>scp</category>
+    </trivia>
+    <trivia id="36">
+        <question>In the fictional setting of the SCP Foundation wiki, what does "MTF" stand for?</question>
+        <choices>
+            <option0>Mobile Task Force</option0>
+            <option1>Minor Time Fractures</option1>
+            <option2>Memetic Task Force</option2>
+            <option3>Military Task Force</option3>
+        </choices>
+        <answer>0</answer>
+        <category>scp</category>
+    </trivia>
+    <trivia id="37">
+        <question>What is a geiger counter used to measure?</question>
+        <choices>
+            <option0>Temperature</option0>
+            <option1>Humidity</option1>
+            <option2>Radioactivity</option2>
+            <option3>Pressure</option3>
+        </choices>
+        <answer>2</answer>
+        <category>science</category>
+    </trivia>
+    <trivia id="38">
+        <question>What is the name of the process by which a solid turns into a gas?</question>
+        <choices>
+            <option0>Condensation</option0>
+            <option1>Evaporation</option1>
+            <option2>Sublimation</option2>
+            <option3>Freezing</option3>
+        </choices>
+        <answer>2</answer>
+        <category>science</category>
+    </trivia>
+    <trivia id="39">
+        <question>What is the part of the brain deals with hearing and language?</question>
+        <choices>
+            <option0>Cerebellum</option0>
+            <option1>Cerebrum</option1>
+            <option2>Brain stem</option2>
+            <option3>Temporal lobe</option3>
+        </choices>
+        <answer>3</answer>
+        <category>human_anatomy</category>
+    </trivia>
+    <trivia id="40">
+        <question>What is it called when you make light change direction by passing it through a lens?</question>
+        <choices>
+            <option0>Refraction</option0>
+            <option1>Reflection</option1>
+            <option2>Diffraction</option2>
+            <option3>Dispersion</option3>
+        </choices>
+        <answer>0</answer>
+        <category>science</category>
+    </trivia>
+    <trivia id="41">
+        <question>His name lives on in the form of an oath of ethics taken by medical practitioners. Which ancient Greek physician is known as the "Father of Medicine"?</question>
+        <choices>
+            <option0>Archimedes</option0>
+            <option1>Pythagoras</option1>
+            <option2>Euclid</option2>
+            <option3>Hippocrates</option3>
+        </choices>
+        <answer>3</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="42">
+        <question>What famous sixth king of the First Babylonian Dynasty became famous for his titular "code" which importantly shifted law codes from compensating victims to physical punishment of perpetrators?</question>
+        <choices>
+            <option0>Nebuchadnezzar</option0>
+            <option1>Hammurabi</option1>
+            <option2>Sargon</option2>
+            <option3>Shamshi-Adad</option3>
+        </choices>
+        <answer>1</answer>
+        <category>history</category>   
+    </trivia>
+    <trivia id="43">
+        <question>Referring to the government of the ancient Roman Republic, which four-letter abbreviation was used for the phrase "Senatus Populusque Romanus" meaning "The Roman Senate and People"?</question>
+        <choices>
+            <option0>SPR</option0>
+            <option1>SPLR</option1>
+            <option2>SPQR</option2>
+            <option3>SPRN</option3>
+        </choices>
+        <answer>2</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="44">
+        <question>Who is credited with making the first map of the known world?</question>
+        <choices>
+            <option0>Anaximander</option0>
+            <option1>Plato</option1>
+            <option2>Pythagoras</option2>
+            <option3>Eratosthenes</option3>
+        </choices>
+        <answer>0</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="45">
+        <question>What term is used for when a bullet skips or rebounds off a surface?</question>
+        <choices>
+            <option0>Deflection</option0>
+            <option1>Rebound</option1>
+            <option2>Ricochet</option2>
+            <option3>Glancing</option3>
+        </choices>
+        <answer>2</answer>
+        <category>weaponry</category>
+    </trivia>
+    <trivia id="46">
+        <question>The katana is a type of sword developed in which country?</question>
+        <choices>
+            <option0>China</option0>
+            <option1>Japan</option1>
+            <option2>India</option2>
+            <option3>Thailand</option3>
+        </choices>
+        <answer>1</answer>
+        <category>weaponry</category>
+    </trivia>
+    <trivia id="47">
+        <question>Which of the following devices is used to help aim or align a firearm?</question>
+        <choices>
+            <option0>Spring</option0>
+            <option1>Stock</option1>
+            <option2>Sight</option2>
+            <option3>Barrel</option3>
+        </choices>
+        <answer>2</answer>
+        <category>weaponry</category>
+    </trivia>
+    <trivia id="48">
+        <question>What is the name for a cartridge that contains gunpowder but no bullet?</question>
+        <choices>
+            <option0>Blank</option0>
+            <option1>Dud</option1>
+            <option2>Snuff</option2>
+            <option3>Null</option3>
+        </choices>
+        <answer>0</answer>
+        <category>weaponry</category>
+    </trivia>
+    <trivia id="49">
+        <question>What type of caliber does the M16 rifle family use?</question>
+        <choices>
+            <option0>7.62mm</option0>
+            <option1>5.56mm</option1>
+            <option2>9mm</option2>
+            <option3>12.7mm</option3>
+        </choices>
+        <answer>1</answer>
+        <category>weaponry</category>
+    </trivia>
+    <trivia id="50">
+        <question>What type of guidance system do most AIM-9 Sidewinder missiles use?</question>
+        <choices>
+            <option0>Command to line-of-sight</option0>
+            <option1>Active radar homing</option1>
+            <option2>Semi-active radar homing</option2>
+            <option3>Infrared homing</option3>
+        </choices>
+        <answer>3</answer>
+        <category>weaponry</category>
+    </trivia>
+    <trivia id="51">
+        <question>What is the name of the first successful powered aircraft?</question>
+        <choices>
+            <option0>Wright Flyer</option0>
+            <option1>Wright Glider</option1>
+            <option2>HV-1 Mufli</option2>
+            <option3>Zaschka-HPA</option3>
+        </choices>
+        <answer>0</answer>
+        <category>aviation</category>
+    </trivia>
+    <trivia id="52">
+        <question>What is the name of the first aircraft to exceed the speed of sound?</question>
+        <choices>
+            <option0>Lockheed SR-71 Blackbird</option0>
+            <option1>North American X-15</option1>
+            <option2>Bell X-1</option2>
+            <option3>North American XB-70 Valkyrie</option3>
+        </choices>
+        <answer>2</answer>
+        <category>aviation</category>
+    </trivia>
+    <trivia id="53">
+        <question>In NATO military protocols, what brevity code do aviators mention to indicate a launch of an active radar homing air-to-air missile?</question>
+        <choices>
+            <option0>Fox one</option0>
+            <option1>Fox two</option1>
+            <option2>Fox three</option2>
+            <option3>Magnum</option3>
+        </choices>
+        <answer>2</answer>
+        <category>military</category>
+    </trivia>
+    <trivia id="54">
+        <question>In NATO military protocols, what brevity code do aviators mention to indicate a launch of a friendly air-to-ground missile?</question>
+        <choices>
+            <option0>Fox one</option0>
+            <option1>Magnum</option1>
+            <option2>Ripple</option2>
+            <option3>Rifle</option3>
+        </choices>
+        <answer>3</answer>
+        <category>military</category>
+    </trivia>
+    <trivia id="55">
+        <question>Andy Rubin is known as one of the three founders of what massively popular cell phone operating system?</question>
+        <choices>
+            <option0>iOS</option0>
+            <option1>Android</option1>
+            <option2>Windows Phone</option2>
+            <option3>Blackberry OS</option3>
+        </choices>
+        <answer>1</answer>
+        <category>technology</category>
+    </trivia>
+    <trivia id="56">
+        <question>In 2005, Linus Torvalds created software for tracking changes on files in order to improve development of the Linux kernel. Since 2005, the open-source software has had Junio Hamano as the core maintainer. What is the name of this popular software among developers?</question>
+        <choices>
+            <option0>CVS</option0>
+            <option1>SVN</option1>
+            <option2>Git</option2>
+            <option3>Mercurial</option3>
+        </choices>
+        <answer>2</answer>
+        <category>technology</category>
+    </trivia>
+    <trivia id="57">
+        <question>What does the Apollo Guidance Computer's error code 1202 indicate?</question>
+        <choices>
+            <option0>Backup battery is running low</option0>
+            <option1>Memory is full, can't execute any more instructions</option1>
+            <option2>Computer is affected by a bit-flip due to space radiation</option2>
+            <option3>No data stream is received from radar altimeter during lunar landing</option3>
+        </choices>
+        <answer>1</answer>
+        <category>spaceflight</category>
+    </trivia>
+    <trivia id="58">
+        <question>Which NASA space flight was the last manned mission to the moon?</question>
+        <choices>
+            <option0>Apollo 18</option0>
+            <option1>Apollo 15</option1>
+            <option2>Apollo 17</option2>
+            <option3>Apollo 21</option3>
+        </choices>
+        <answer>2</answer>
+        <category>spaceflight</category>
+    </trivia>
+    <trivia id="59">
+        <question>What is the measure of the impulse per unit of spacecraft mass that is needed to perform a spacecraft orbital maneuver?</question>
+        <choices>
+            <option0>Delta-v</option0>
+            <option1>Thrust velocity</option1>
+            <option2>Terminal velocity</option2>
+            <option3>Specific impulse</option3>
+        </choices>
+        <answer>0</answer>
+        <category>spaceflight</category>
+    </trivia>
+    <trivia id="60">
+        <question>What maneuver utilizes the gravitational pull of a larger body of mass at the lowest point in orbit to achieve additional speed for a spacecraft?</question>
+        <choices>
+            <option0>Lagrangian maneuver</option0>
+            <option1>Hohmann transfer</option1>
+            <option2>Gravitational slingshot</option2>
+            <option3>Oberth maneuver</option3>
+        </choices>
+        <answer>3</answer>
+        <category>spaceflight</category>
+    </trivia>
+    <trivia id="61">
+        <question>What orbital maneuver is used to move a spacecraft between two orbits of different altitudes around a central body?</question>
+        <choices>
+            <option0>Orbit phasing</option0>
+            <option1>Orbit inclanation change</option1>
+            <option2>Bi-elliptic transfer</option2>
+            <option3>Hohmann transfer</option3>
+        </choices>
+        <answer>3</answer>
+        <category>spaceflight</category>
+    </trivia>
+    <trivia id="62">
+        <question>In the anime "Hunter X Hunter", which family is famous for being assassins?</question>
+        <choices>
+            <option0>Kurta</option0>
+            <option1>Freecss</option1>
+            <option2>Zoldyck</option2>
+            <option3>Morou</option3>
+        </choices>
+        <answer>2</answer>
+        <category>anime</category>
+    </trivia>
+    <trivia id="63">
+        <question>What is the greatest taboo for the alchemists in "Fullmetal Alchemist"?</question>
+        <choices>
+            <option0>Human sacrifice</option0>
+            <option1>Human transmutation</option1>
+            <option2>Human experimentation</option2>
+            <option3>Human cloning</option3>
+        </choices>
+        <answer>1</answer>
+        <category>anime</category>
+    </trivia>
+    <trivia id="64">
+        <question>What popular anime features a notebook that can kill people by writing their names in it?</question>
+        <choices>
+            <option0>Death Note</option0>
+            <option1>Code Geass</option1>
+            <option2>Monster</option2>
+            <option3>Parasyte</option3>
+        </choices>
+        <answer>0</answer>
+        <category>anime</category>
+    </trivia>
+    <trivia id="65">
+        <question>What is the name of the virtual world in "Sword Art Online"?</question>
+        <choices>
+            <option0>Alfheim</option0>
+            <option1>Valheim</option1>
+            <option2>Underworld</option2>
+            <option3>Aincrad</option3>
+        </choices>
+        <answer>3</answer>
+        <category>anime</category>
+    </trivia>
+    <trivia id="66">
+        <question>What is the unique power system in "Hunter x Hunter" called?</question>
+        <choices>
+            <option0>Nen</option0>
+            <option1>Chakra</option1>
+            <option2>Qi</option2>
+            <option3>Mana</option3>
+        </choices>
+        <answer>0</answer>
+        <category>anime</category>
+    </trivia>
+    <trivia id="67">
+        <question>What are the name of the main characters in the anime "Your Name"?</question>
+        <choices>
+            <option0>Taki and Miki</option0>
+            <option1>Shoya and Shoko</option1>
+            <option2>Shoya and Ueno</option2>
+            <option3>Taki and Mitsuha</option3>
+        </choices>
+        <answer>3</answer>
+        <category>anime</category>
+    </trivia>
+    <trivia id="68">
+        <question>In "Attack on Titan", what is the special ability of the Female Titan?</question>
+        <choices>
+            <option0>Regeneration</option0>
+            <option1>Hardening</option1>
+            <option2>Control of Titans</option2>
+            <option3>Super strength</option3>
+        </choices>
+        <answer>1</answer>
+        <category>anime</category>
+    </trivia>
+    <trivia id="69">
+        <question>IEEE 802.3 is a collection of standards produced to define the physical layer and data link of wired Ethernet. The standards are named for the group which drafted them, IEEE. What does this acronym stand for?</question>
+        <choices>
+            <option0>Institute of Electrical and Electronics Engineers</option0>
+            <option1>International Electrical and Electronics Engineers</option1>
+            <option2>International Electronics and Electrical Engineers</option2>
+            <option3>Institute of Electronics and Electrical Engineers</option3>
+        </choices>
+        <answer>0</answer>
+        <category>technology</category>
+    </trivia>
+    <trivia id="70">
+        <question>Which part of a submarine is responsible for controlling the descent or ascent within ocean depths?</question>
+        <choices>
+            <option0>Periscope</option0>
+            <option1>Propeller</option1>
+            <option2>Ballast tanks</option2>
+            <option3>Sonar system</option3>
+        </choices>
+        <answer>2</answer>
+        <category>maritime</category>
+    </trivia>
+    <trivia id="71">
+        <question>What defensive measure is commonly used by ships to counter submarine attacks?</question>
+        <choices>
+            <option0>Sonar buoys</option0>
+            <option1>Flares</option1>
+            <option2>Smoke bombs</option2>
+            <option3>Depth charges</option3>
+        </choices>
+        <answer>3</answer>
+        <category>maritime</category>
+    </trivia>
+    <trivia id="72">
+        <question>In maritime sailing, which direction is towards the front of the boat?</question>
+        <choices>
+            <option0>Starboard</option0>
+            <option1>Bow</option1>
+            <option2>Stern</option2>
+            <option3>Port</option3>
+        </choices>
+        <answer>1</answer>
+        <category>maritime</category>
+    </trivia>
+    <trivia id="73">
+        <question>In a submarine, what is the function of hydroplanes?</question>
+        <choices>
+            <option0>Control the depth of the submarine</option0>
+            <option1>To launch torpedoes</option1>
+            <option2>Maneuver the submarine left or right</option2>
+            <option3>Control the pitch angle of the submarine during a dive</option3>
+        </choices>
+        <answer>3</answer>
+        <category>maritime</category>
+    </trivia>
+    <trivia id="74">
+        <question>When did the first World war started?</question>
+        <choices>
+            <option0>1915</option0>
+            <option1>1914</option1>
+            <option2>1916</option2>
+            <option3>1917</option3>
+        </choices>
+        <answer>1</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="75">
+        <question>When was the Berlin wall removed?</question>
+        <choices>
+            <option0>1989</option0>
+            <option1>1990</option1>
+            <option2>1988</option2>
+            <option3>1986</option3>
+        </choices>
+        <answer>0</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="76">
+        <question>What is the Roman military defensive move that took its name from the behavior of a tortoise?</question>
+        <choices>
+            <option0>Scorpio</option0>
+            <option1>Scutum</option1>
+            <option2>Testudo</option2>
+            <option3>Phalanx</option3>
+        </choices>
+        <answer>2</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="77">
+        <question>In Philippine history, who was the first woman member of the Katipunan?</question>
+        <choices>
+            <option0>Josefa Rizal</option0>
+            <option1>Gregoria de Jesus</option1>
+            <option2>Trinidad Tecson</option2>
+            <option3>Marina Dizon</option3>
+        </choices>
+        <answer>1</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="78">
+        <question>What is the name of the first Filipino to win an Olympic gold medal in 1928?</question>
+        <choices>
+            <option0>Teofilo Yldefonso</option0>
+            <option1>Jose Villanueva</option1>
+            <option2>Anthony Villanueva</option2>
+            <option3>Lydia de Vega</option3>
+        </choices>
+        <answer>0</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="79">
+        <question>What was the name of the largest naval battle fought in the Philippines?</question>
+        <choices>
+            <option0>Battle of Manila Bay</option0>
+            <option1>Battle of Corregidor</option1>
+            <option2>Battle of Mactan</option2>
+            <option3>Battle of Leyte Gulf</option3>
+        </choices>
+        <answer>3</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="80">
+        <question>The Spanish occupation of Manila ended in 1898 with the signing of what treaty?</question>
+        <choices>
+            <option0>Treaty of Berlin</option0>
+            <option1>Treaty of Manila</option1>
+            <option2>Treaty of Paris</option2>
+            <option3>Treaty of Versailles</option3>
+        </choices>
+        <answer>2</answer>
+        <category>history</category>
+    </trivia>
+    <trivia id="81">
+        <question>In which year was the popular tabletop roleplaying game Dungeons &amp; Dragons was published?</question>
+        <choices>
+            <option0>1977</option0>
+            <option1>1975</option1>
+            <option2>1976</option2>
+            <option3>1974</option3>
+        </choices>
+        <answer>3</answer>
+        <category>dnd_ttrpg</category>
+    </trivia>
+    <trivia id="82">
+        <question>In Dungeons &amp; Dragons, which character class is known for its shapeshifting abilities?</question>
+        <choices>
+            <option0>Druid</option0>
+            <option1>Wizard</option1>
+            <option2>Warlock</option2>
+            <option3>Shapeshifter</option3>
+        </choices>
+        <answer>0</answer>
+        <category>dnd_ttrpg</category>
+    </trivia>
+    <trivia id="83">
+        <question>In Dungeons &amp; Dragons, which character class is focused on stealth and thievery?</question>
+        <choices>
+            <option0>Barbarian</option0>
+            <option1>Rogue</option1>
+            <option2>Ninja</option2>
+            <option3>Ranger</option3>
+        </choices>
+        <answer>1</answer>
+        <category>dnd_ttrpg</category>
+    </trivia>
+    <trivia id="84">
+        <question>In Dungeons &amp; Dragons, what does having a lower "armor class" (AC) generally imply?</question>
+        <choices>
+            <option0>You are more likely to dodge an attack</option0>
+            <option1>Your armor is lighter in weight</option1>
+            <option2>The material of the armor you wear is weak</option2>
+            <option3>You are more likely to be hit by an attack</option3>
+        </choices>
+        <answer>3</answer>
+        <category>dnd_ttrpg</category>
+    </trivia>
+    <trivia id="85">
+        <question>In Dungeons &amp; Dragons, what does it mean when you roll a die with "advantage"?</question>
+        <choices>
+            <option0>You roll once and add a variable bonus to it</option0>
+            <option1>You roll twice and take the lower result</option1>
+            <option2>You roll twice and take the higher result</option2>
+            <option3>You roll twice and add the results together</option3>
+        </choices>
+        <answer>2</answer>
+        <category>dnd_ttrpg</category>
+    </trivia>
+    <trivia id="86">
+        <question>In computer science, what is the process of transforming an expression from one data type to another?</question>
+        <choices>
+            <option0>Data conversion</option0>
+            <option1>Data typing</option1>
+            <option2>Type checking</option2>
+            <option3>Type casting</option3>
+        </choices>
+        <answer>3</answer>
+        <category>computer_science</category>
+    </trivia>
+    <trivia id="87">
+        <question>In many programming languages, what object stores the memory address or location where another data object is stored?</question>
+        <choices>
+            <option0>Variable</option0>
+            <option1>Reference</option1>
+            <option2>Pointer</option2>
+            <option3>Constant</option3>
+        </choices>
+        <answer>2</answer>
+        <category>computer_science</category>
+    </trivia>
+    <trivia id="88">
+        <question>In computer science, what is the term for a data structure that is a collection of elements that are accessed in a last-in-first-out manner?</question>
+        <choices>
+            <option0>Array</option0>
+            <option1>Stack</option1>
+            <option2>Queue</option2>
+            <option3>Hash table</option3>
+        </choices>
+        <answer>1</answer>
+        <category>computer_science</category>
+    </trivia>
+    <trivia id="89">
+        <question>What computer architecture is generally designed to simplify individual instructions given to a CPU to accomplish tasks?</question>
+        <choices>
+            <option0>Complex instruction set computing</option0>
+            <option1>Explicitly parallel instruction computing</option1>
+            <option2>Very long instruction word</option2>
+            <option3>Reduced instruction set computing</option3>
+        </choices>
+        <answer>3</answer>
+        <category>computer_science</category>
+    </trivia>
+</database>

@@ -1,0 +1,92 @@
+Welcome to the Trivia Game!
+This is a two player game. Each player gets to answer 5 questions each.
+Questions are randomly picked from a database and each player gets to answer in turns.
+Each answer is labled by letters A, B, C and D. Type the correct answer when prompted,
+and it will be recorded regardless if you typed a lowercase or uppercase answer once you hit enter.
+Typing any other letters, words, or phrase will invalidate your answer.
+Scores will be counted at the end of the game. Good luck and have fun!
+
+Player 1's turn:
+1) In which European city was the first organized marathon held?
+ a. Paris
+ b. London
+ c. Athens
+ d. Rome
+Your answer: c
+====================================
+Player 2's turn:
+2) His name lives on in the form of an oath of ethics taken by medical practitioners. Which ancient Greek physician is known as the "Father of Medicine"?
+ a. Archimedes
+ b. Pythagoras
+ c. Euclid
+ d. Hippocrates
+Your answer: d
+====================================
+Player 1's turn:
+3) In computer science, what is the term for a data structure that is a collection of elements that are accessed in a last-in-first-out manner?
+ a. Array
+ b. Stack
+ c. Queue
+ d. Hash table
+Your answer: c
+====================================
+Player 2's turn:
+4) What maneuver utilizes the gravitational pull of a larger body of mass at the lowest point in orbit to achieve additional speed for a spacecraft?
+ a. Lagrangian maneuver
+ b. Hohmann transfer
+ c. Gravitational slingshot
+ d. Oberth maneuver
+Your answer: d
+====================================
+Player 1's turn:
+5) In 2005, Linus Torvalds created software for tracking changes on files in order to improve development of the Linux kernel. Since 2005, the open-source software has had Junio Hamano as the core maintainer. What is the name of this popular software among developers?
+ a. CVS
+ b. SVN
+ c. Git
+ d. Mercurial
+Your answer: b
+====================================
+Player 2's turn:
+6) In Philippine history, who was the first woman member of the Katipunan?
+ a. Josefa Rizal
+ b. Gregoria de Jesus
+ c. Trinidad Tecson
+ d. Marina Dizon
+Your answer: c
+====================================
+Player 1's turn:
+7) What are the bones called that make up a spine?
+ a. Vertebrae
+ b. Tibia
+ c. Femur
+ d. Cranium
+Your answer: a
+====================================
+Player 2's turn:
+8) What is the name of the SCP anomaly that is a statue that moves when not in direct line of sight?
+ a. SCP-173
+ b. SCP-096
+ c. SCP-049
+ d. SCP-106
+Your answer: d
+====================================
+Player 1's turn:
+9) What is the name of the first Filipino to win an Olympic gold medal in 1928?
+ a. Teofilo Yldefonso
+ b. Jose Villanueva
+ c. Anthony Villanueva
+ d. Lydia de Vega
+Your answer: b
+====================================
+Player 2's turn:
+10) The Spanish occupation of Manila ended in 1898 with the signing of what treaty?
+ a. Treaty of Berlin
+ b. Treaty of Manila
+ c. Treaty of Paris
+ d. Treaty of Versailles
+Your answer: c
+====================================
+
+Player 2 wins!
+Player 1's score: 2
+Player 2's score: 3
